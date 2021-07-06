@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "210365289762",
+    "project_id": "quiz-app-d9f59",
+    "storage_bucket": "quiz-app-d9f59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210365289762:android:237c78ae9afef2ced9417b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210365289762-4bv839ldq40cubd76kquqst99aj0s9ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjrK5s4o3ZSLXFPeY73XeXUlYIkKp1Sj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210365289762-4bv839ldq40cubd76kquqst99aj0s9ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210365289762:android:829b52faee2b4ffdd9417b",
+        "android_client_info": {
+          "package_name": "com.example.quiz_test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210365289762-4bv839ldq40cubd76kquqst99aj0s9ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjrK5s4o3ZSLXFPeY73XeXUlYIkKp1Sj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210365289762-4bv839ldq40cubd76kquqst99aj0s9ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210365289762:android:b3abd2ce7c7f5ac9d9417b",
+        "android_client_info": {
+          "package_name": "com.example.quiztest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210365289762-4bv839ldq40cubd76kquqst99aj0s9ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjrK5s4o3ZSLXFPeY73XeXUlYIkKp1Sj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210365289762-4bv839ldq40cubd76kquqst99aj0s9ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210365289762:android:3ddc976518f6956dd9417b",
+        "android_client_info": {
+          "package_name": "com.example.quizworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210365289762-4bv839ldq40cubd76kquqst99aj0s9ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjrK5s4o3ZSLXFPeY73XeXUlYIkKp1Sj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210365289762-4bv839ldq40cubd76kquqst99aj0s9ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
