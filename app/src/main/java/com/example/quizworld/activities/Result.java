@@ -26,7 +26,6 @@ public class Result extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_result);
         text_score=findViewById(R.id.txtScore);
-
         setUpViews();
     }
     private void setUpViews() {
